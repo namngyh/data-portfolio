@@ -5,13 +5,6 @@
 
 ---
 
-## About Me
-
-I'm Hoài Nam — a Data Analyst & Scientist who turns raw data into smart insights that help businesses make better calls.  
-This portfolio shows some of my work in eCommerce, sales, retail, marketing, and more.
-
----
-
 ## My Toolbox
 
 - Languages: Python (Pandas, NumPy, Scikit-learn), SQL  
