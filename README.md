@@ -7,11 +7,9 @@
 
 ## My Toolbox
 
-- Languages: Python (Pandas, NumPy, Scikit-learn), SQL  
+- Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL  
 - BI & Viz: Power BI, Looker Studio  
-- Data Engineering: Apache Airflow, DBT  
-- Databases & Cloud: MySQL, Google BigQuery, Azure  
-- Dev Environment: Jupyter Notebook, VS Code  
+- Dev Environment: Jupyter Notebook, Visual Code  
 
 ---
 
